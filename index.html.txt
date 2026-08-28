@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zakimc - Minecraft [ID Miễn Phí]</title>
+    <style>
+        /* Cấu hình chung cho toàn bộ trang web */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: #f7f9fa;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        /* Thanh điều hướng Header phía trên cùng */
+        .header {
+            background-color: #ffffff;
+            padding: 12px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #e1e4e6;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .logo-text {
+            font-size: 20px;
+            font-weight: bold;
+            color: #0071e3;
+        }
+        .user-icon {
+            width: 35px;
+            height: 35px;
+            background-color: #f0f2f5;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+        }
+
+        /* Khung nội dung chính (Card) */
+        .container {
+            max-width: 500px;
+            margin: 20px auto;
+            padding: 0 15px;
+        }
+        .card {
+            background-color: #ffffff;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        /* Tiêu đề bài viết */
+        .title {
+            font-size: 22px;
+            font-weight: 700;
+            color: #1d1d1f;
+            margin-bottom: 15px;
+        }
+
+        /* Thông tin người đăng bài */
+        .meta-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+        .author-avatar {
+            width: 40px;
+            height: 40px;
+            background-color: #e3f2fd;
+            color: #0071e3;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            margin-right: 12px;
+        }
+        .author-name {
+            color: #0071e3;
+            font-weight: 600;
+        }
+
+        /* Ảnh minh họa của game */
+        .game-image {
+            width: 100%;
+            border-radius: 8px;
+            display: block;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        /* Số lượt xem */
+        .views-badge {
+            display: inline-flex;
+            align-items: center;
+            background-color: #f3e5f5;
+            color: #7b1fa2;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 25px;
+        }
+
+        /* Khu vực nút bấm hành động */
+        .action-section {
+            border-top: 1px solid #f0f2f5;
+            padding-top: 20px;
+            text-align: left;
+        }
+        .action-text {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        .action-subtext {
+            font-size: 20px;
+            margin-bottom: 12px;
+        }
+        .btn-primary {
+            display: inline-block;
+            background-color: #2563eb;
+             color: yellow;
+            text-decoration: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 16px;
+            transition: background 0.2s;
+        }
+        .btn-primary:hover {
+            background-color: #1d4ed8;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Thanh đầu trang giống website mẫu -->
+    <div class="header">
+        <div class="logo-text">Zakimc.net</div>
+        <div class="user-icon">⚡️</div>
+    </div>
+
+    <!-- Vùng hiển thị nội dung bài viết chính -->
+    <div class="container">
+        <div class="card">
+            
+            <h1 class="title">Minecraft [ID Miễn Phí]</h1>
+            
+            <div class="meta-info">
+                <div class="author-avatar">😶‍🌫️</div>
+                <div>
+                    Đăng bởi: <span class="author-name">ADzakimc.net</span><br>
+                    <small>14:56 26/08/2026</small>
+                </div>
+            </div>
+
+            <!-- Bạn có thể thay link ảnh Minecraft khác vào thuộc tính src dưới đây nếu muốn -->
+            
+<img class="game-image" src="https://unsplash.com" alt="Minecraft">
+
+            <div class="views-badge">
+                👁️ 1000 lượt xem
+            </div>
+
+            <div class="action-section">
+                <div class="action-text">Vượt Link lấy ID Apple</div>
+                <div class="action-subtext">👇</div>
+                <a href="https://link4m.org/dPODN9" class="btn-primary" style="background-color: #ffcc00; color: #000000;">Lấy ID </a>
+           <div class="action-section">
+                <div class="action-text">Vào Server discord nhận thông báo</div>
+                <div class="action-subtext">👇</div>
+               <a href="https://discord.gg/SpT5uwPed" class="btn-primary" style="background-color: red;
+;"> Join </a>
+
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
+
+lưu ý : nếu bị khoá thì 1 tiếng sau quay lại nhé⚜️
+
+
+
+(2-3) ngày share 1 lần hoặc 1 ngày share nhiều id‼️
+
